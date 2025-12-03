@@ -1,6 +1,5 @@
 # Gelatina de pata – Dulce tradicional
 
-Este proyecto es la práctica final del módulo de HTML.  
 La página muestra información sobre la **gelatina de pata**, un dulce típico preparado con colágeno de pata de vaca, y algunos productos que se pueden vender a partir de ella.
 
 ## 🌐 Página publicada
