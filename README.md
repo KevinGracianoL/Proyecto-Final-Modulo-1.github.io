@@ -7,7 +7,7 @@ La página muestra información sobre la **gelatina de pata**, un dulce típico 
 
 Puedes visitar la página en el siguiente enlace:
 
-👉 https://kevingracianol.github.io/Modulo-2.github.io/
+👉 https://kevingracianol.github.io/Proyecto-Final-Modulo-1.github.io/
 
 ---
 
